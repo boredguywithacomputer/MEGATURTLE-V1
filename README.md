@@ -11,6 +11,9 @@ It features
 - An IMU consisting of Bosch's BMI270 + BMM150, and an BMP388 Barometer
 - Sockets to mount an NRF24L01 module
 
+Note:
+DRC says the courtyard two header pins overlap with those of the ESP32's antenna, but I ignored it since I won't need wireless connectivity. 
+
 # Schematic
 
 <img width="1231" height="837" alt="image" src="https://github.com/user-attachments/assets/370dc759-532c-4d35-b968-9cd067dcea00" />
