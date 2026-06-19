@@ -3,7 +3,7 @@ A ESP32-S3 based custom drone flight controller that is a part of a bigger proje
 
 <a href='https://epicturtle.web.app/fc/'>Here's a link to a demo</a>
 
-Its features include:
+It features
 - 4 connectors for each individual ESC of my quadcopter
   -  One ESC will supply 5v for the flight controller
 - A voltage divider setup that enables measurement of the LiPo battery's voltage and capacity
