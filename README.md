@@ -1,5 +1,7 @@
-# MEGATURTLE-V1
-A custom drone flight controller that is a part of a bigger project. Currently a work in progresshttps://epicturtle.web.app/fc/
+  # MEGATURTLE-V1
+A custom drone flight controller that is a part of a bigger project. Currently a work in progress
+
+<a href='https://epicturtle.web.app/fc/'>Here's a link to a demo</a>
 
 # Schematic
 
@@ -7,8 +9,7 @@ A custom drone flight controller that is a part of a bigger project. Currently a
 
 
 # Board
-Before ground fill<br>
-<img width="973" height="836" alt="image" src="https://github.com/user-attachments/assets/4e1e8915-fd47-46a2-8e6e-7b281c86485b" />
+<img width="909" height="840" alt="image" src="https://github.com/user-attachments/assets/2ef6d172-c325-4605-87c5-f8080c4f36b3" />
 <br>
-After ground fill<br>
-<img width="840" height="735" alt="image" src="https://github.com/user-attachments/assets/5629387f-e888-413c-90db-b55899a8a7cb" />
+<img width="713" height="722" alt="image" src="https://github.com/user-attachments/assets/e8057072-8888-4cde-b9ab-2839fc4da7e9" />
+<img width="505" height="451" alt="image" src="https://github.com/user-attachments/assets/f45b4877-69fb-4ce9-8885-00afc8e449be" />
