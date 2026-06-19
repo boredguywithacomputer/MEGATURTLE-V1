@@ -1,7 +1,15 @@
   # MEGATURTLE-V1
-A custom drone flight controller that is a part of a bigger project. Currently a work in progress
+A ESP32-S3 based custom drone flight controller that is a part of a bigger project. This is not the entire project, but is the only part that needs funding. 
 
 <a href='https://epicturtle.web.app/fc/'>Here's a link to a demo</a>
+
+Its features include:
+- 4 connectors for each individual ESC of my quadcopter
+  -  One ESC will supply 5v for the flight controller
+- A voltage divider setup that enables measurement of the LiPo battery's voltage and capacity
+- An ESP32-S3 Wroom-1 microcontroller
+- An IMU consisting of Bosch's BMI270 + BMM150, and an BMP388 Barometer
+- Sockets to mount an NRF24L01 module
 
 # Schematic
 
