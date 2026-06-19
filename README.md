@@ -1,5 +1,5 @@
   # MEGATURTLE-V1
-A ESP32-S3 based custom drone flight controller that is a part of a bigger project. This is not the entire project, but is the only part that needs funding. 
+An ESP32-S3 based custom drone flight controller that is a part of a bigger project. This is not the entire project, but is the only part that needs funding. 
 
 <a href='https://epicturtle.web.app/fc/'>Here's a link to a demo</a>
 
