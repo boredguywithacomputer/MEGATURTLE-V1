@@ -2,6 +2,8 @@
 An ESP32-S3 based custom drone flight controller that is a part of a bigger project. This is not the entire project, but is the only part that needs funding. 
 
 <a href='https://epicturtle.web.app/demoflightcontroller/'>Here's a link to a demo</a>
+<a href='https://epicturtle.web.app/schemm.pdf/'>PDF version of schematic</a>
+
 
 It features
 - 4 connectors for each individual ESC of my quadcopter
