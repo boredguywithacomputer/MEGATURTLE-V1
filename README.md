@@ -20,7 +20,7 @@ DRC says the courtyard two header pins overlap with those of the ESP32's antenna
 
 
 # Board
-<img width="909" height="840" alt="image" src="https://github.com/user-attachments/assets/2ef6d172-c325-4605-87c5-f8080c4f36b3" />
+<img width="807" height="809" alt="image" src="https://github.com/user-attachments/assets/7df504fb-e048-4566-a350-dfd11ed9b367" />
 <br>
-<img width="713" height="722" alt="image" src="https://github.com/user-attachments/assets/e8057072-8888-4cde-b9ab-2839fc4da7e9" />
-<img width="505" height="451" alt="image" src="https://github.com/user-attachments/assets/f45b4877-69fb-4ce9-8885-00afc8e449be" />
+<img width="807" height="809" alt="image" src="https://github.com/user-attachments/assets/680bc4a4-d9a7-41ab-87a8-83ccb70f230c" />
+<img width="508" height="477" alt="image" src="https://github.com/user-attachments/assets/242d1140-f8c8-4fe3-996c-7235d743b7bd" />
